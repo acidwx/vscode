@@ -1,0 +1,21 @@
+{
+  "name": "acidwx",
+  "displayName": "acidwx",
+  "description": "🧪 a soothing pastel colour theme for vscode ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "acidwx",
+        "uiTheme": "vs-dark",
+        "path": "./themes/acidwx-color-theme.json"
+      }
+    ]
+  }
+}

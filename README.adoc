@@ -1,0 +1,20 @@
+== 🧪 acidwx
+
+ifdef::env-github[]
+++++
+<p align="center">
+  <img src="./.github/preview.png">
+</p>
+++++
+endif::[]
+
+ifndef::env-github[]
+image::preview.png[Preview image, align=center]
+endif::[]
+
+=== 📦 installation
+open your terminal and copy the cloned folder to `~/.vscode/extensions` (or similar, depending on your system)
+
+=== 📝 about
+
+acidwx is a port of @pyratebeard's "acid witch" theme for various applications
